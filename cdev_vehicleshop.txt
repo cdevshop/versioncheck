@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Job system update, bugfix"}
+{"version":"1.1.2", "notes":"Critical bugfix. Please update!"}
