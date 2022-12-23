@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Showroom fixes, vehicle spawn process changes, give keys to customer first by default (configurable) & locales have been added!"}
+{"version":"1.1.0", "notes":"Job system update"}
