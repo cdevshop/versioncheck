@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Small bugfix"}
+{"version":"1.0.4", "notes":"Backwards framework support"}
