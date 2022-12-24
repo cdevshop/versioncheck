@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Backwards framework support"}
+{"version":"1.0.5", "notes":"ESX framework integration bugfix"}
