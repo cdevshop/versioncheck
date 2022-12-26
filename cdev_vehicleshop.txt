@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":"Change category logic"}
+{"version":"1.2.3", "notes":"Fix category update for older versions"}
