@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"ESX integration bugfixes"}
+{"version":"1.0.9", "notes":"Bugfixes & Improvements"}
