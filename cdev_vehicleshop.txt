@@ -1,1 +1,1 @@
-{"version":"1.4.4", "notes":"ESX bugfix"}
+{"version":"1.4.5", "notes":"Categories bugfix"}
