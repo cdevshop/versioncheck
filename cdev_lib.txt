@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Chat related improvements"}
+{"version":"2.0.2", "notes":"Internal menu fix"}
