@@ -1,1 +1,1 @@
-{"version":"1.4.5", "notes":"Categories bugfix"}
+{"version":"1.4.6", "notes":"General bugfixes and compatibility with newest cdev_lib"}
