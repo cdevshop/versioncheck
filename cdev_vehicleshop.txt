@@ -1,1 +1,1 @@
-{"version":"1.4.6", "notes":"General bugfixes and compatibility with newest cdev_lib"}
+{"version":"1.4.7", "notes":"Fix car categories and drawtext interaction"}
