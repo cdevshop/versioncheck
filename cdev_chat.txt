@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Optimize loading"}
+{"version":"1.0.3", "notes":"Fix icons on Unix systems and suggestions on ESX"}
