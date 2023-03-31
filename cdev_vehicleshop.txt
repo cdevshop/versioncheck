@@ -1,1 +1,1 @@
-{"version":"1.4.7", "notes":"Fix car categories and drawtext interaction"}
+{"version":"2.0.0", "notes":"New vehicle pickup feature"}
