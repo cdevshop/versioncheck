@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":"Internal menu fix"}
+{"version":"2.0.3", "notes":"Support for vehicle shop 2.0.0 and chat 1.0.4"}
