@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fix icons on Unix systems and suggestions on ESX"}
+{"version":"1.0.4", "notes":"Configurable sizes and notification time"}
