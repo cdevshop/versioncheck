@@ -1,1 +1,1 @@
-{"version":"2.0.4", "notes":"Fix for vehicle shop pickup"}
+{"version":"2.1.0", "notes":"Notify Premium support"}
