@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":"Pets support"}
+{"version":"2.2.1", "notes":"API target bugfix"}
