@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Bugfixes"}
+{"version":"1.0.3", "notes":"Female Hottweiler, bugfixes"}
