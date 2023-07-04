@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Minor fixes"}
+{"version":"1.0.5", "notes":"Fixed unexpected errors when executing commands"}
