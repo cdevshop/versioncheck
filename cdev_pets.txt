@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Integrations"}
+{"version":"1.0.5", "notes":"Bugfixes"}
