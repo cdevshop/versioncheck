@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"New Breed"}
+{"version":"1.1.1", "notes":"New Breed for Premium"}
