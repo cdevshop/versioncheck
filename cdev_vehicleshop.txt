@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Bugfixes"}
+{"version":"2.0.2", "notes":"Hotfix for ox_target"}
