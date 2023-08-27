@@ -1,1 +1,1 @@
-{"version":"2.2.3", "notes":"New icons for pets"}
+{"version":"2.2.4", "notes":"New icons for pets"}
