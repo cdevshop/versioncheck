@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"New Breed for Premium"}
+{"version":"1.2.0", "notes":"New Breed, props and apparel for Premium"}
