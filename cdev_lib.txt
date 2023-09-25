@@ -1,1 +1,1 @@
-{"version":"2.2.5", "notes":"Hotfix for pets"}
+{"version":"2.3.0", "notes":"Support for soccer"}
