@@ -1,1 +1,1 @@
-{"version":"2.3.0", "notes":"Support for soccer"}
+{"version":"2.3.1", "notes":"Support for soccer"}
