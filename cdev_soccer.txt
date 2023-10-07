@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fix Gabz MBA crashes"}
+{"version":"1.0.4", "notes":"Update Locales"}
