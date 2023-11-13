@@ -1,1 +1,1 @@
-{"version":"2.0.4", "notes":"Update Locales"}
+{"version":"2.0.5", "notes":"Vehicle key resource config"}
