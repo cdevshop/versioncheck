@@ -1,1 +1,1 @@
-{"version":"2.3.3", "notes":"Update Locales"}
+{"version":"2.3.4", "notes":"Config for drawtext font"}
