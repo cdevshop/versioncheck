@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Update Locales"}
+{"version":"1.0.5", "notes":"API integrations for beginning and end of match"}
