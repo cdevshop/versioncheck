@@ -1,1 +1,1 @@
-{"version":"2.3.4", "notes":"Config for drawtext font"}
+{"version":"2.3.5", "notes":"Discord VIP role integration"}
