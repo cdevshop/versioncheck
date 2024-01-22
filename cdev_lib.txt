@@ -1,1 +1,1 @@
-{"version":"2.3.5", "notes":"Discord VIP role integration"}
+{"version":"2.4.0", "notes":"Inventory integrations for latest pets update"}
