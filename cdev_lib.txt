@@ -1,1 +1,1 @@
-{"version":"2.4.0", "notes":"Inventory integrations for latest pets update"}
+{"version":"2.4.1", "notes":"Fixes for latest pet update"}
