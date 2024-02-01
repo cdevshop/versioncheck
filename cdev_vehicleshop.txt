@@ -1,1 +1,1 @@
-{"version":"2.0.5", "notes":"Vehicle key resource config"}
+{"version":"2.0.6", "notes":"General bugfixes"}
