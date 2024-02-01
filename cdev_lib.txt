@@ -1,1 +1,1 @@
-{"version":"2.4.1", "notes":"Fixes for latest pet update"}
+{"version":"2.4.2", "notes":"General bugfixes"}
