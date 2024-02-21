@@ -1,1 +1,1 @@
-{"version":"2.0.3", "notes":"General bugfixes"}
+{"version":"2.0.4", "notes":"NUI Bug fix when taking pet in"}
