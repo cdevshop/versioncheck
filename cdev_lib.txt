@@ -1,1 +1,1 @@
-{"version":"2.4.4", "notes":"Bug fixes"}
+{"version":"2.4.5", "notes":"Added support for quasar inventory and fixed errors when the vehicle shop stock is empty"}
