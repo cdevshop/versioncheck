@@ -1,1 +1,1 @@
-{"version":"2.0.4", "notes":"NUI Bug fix when taking pet in"}
+{"version":"2.0.5", "notes":"Fixes for commands + extension on config.lua"}
