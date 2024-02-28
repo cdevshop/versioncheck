@@ -1,1 +1,1 @@
-{"version":"2.1.2", "notes":"Added options to disable thumbnail proxy and to be able to give keys to employee when ordering vehicles"}
+{"version":"2.1.3", "notes":"Fixed thumbnail loading without proxy"}
