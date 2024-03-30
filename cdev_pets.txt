@@ -1,1 +1,1 @@
-{"version":"2.0.6", "notes":"Add Commands.UseRange config option and improve commands execution"}
+{"version":"2.0.7", "notes":"Add new shop items and new pet items"}
