@@ -1,1 +1,1 @@
-{"version":"2.4.5", "notes":"Added support for quasar inventory and fixed errors when the vehicle shop stock is empty"}
+{"version":"2.4.6", "notes":"Added new pictures for new pets items"}
