@@ -1,1 +1,1 @@
-{"version":"2.4.6", "notes":"Added new pictures for new pets items"}
+{"version":"2.4.7", "notes":"Added new pictures for new pets items"}

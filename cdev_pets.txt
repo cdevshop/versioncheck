@@ -1,1 +1,1 @@
-{"version":"2.0.7", "notes":"Add new shop items and new pet items"}
+{"version":"2.0.8", "notes":"Add new shop items and new pet items"}
