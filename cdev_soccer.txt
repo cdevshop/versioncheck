@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"Added Config Option for Ox_Lib Zones Support"}
+{"version":"1.0.8", "notes":"Added new export IsPlaying & new config var BallEntityIIgnoreRequestControlFilter"}
