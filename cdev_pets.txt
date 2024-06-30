@@ -1,1 +1,1 @@
-{"version":"2.0.8", "notes":"Add new shop items and new pet items"}
+{"version":"2.5.0", "notes":"Major update, new cat breeds animals & animations, check docs!"}
