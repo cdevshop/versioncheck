@@ -1,1 +1,1 @@
-{"version":"2.5.0", "notes":"Major update, new cat breeds animals & animations, check docs!"}
+{"version":"2.5.1", "notes":"Fixes on Major Updates!"}
