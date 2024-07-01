@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Added new export IsPlaying & new config var BallEntityIIgnoreRequestControlFilter"}
+{"version":"1.0.9", "notes":"Fix: NUI"}
