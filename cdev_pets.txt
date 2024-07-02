@@ -1,1 +1,1 @@
-{"version":"2.5.1", "notes":"Fixes on Major Updates!"}
+{"version":"2.5.2", "notes":"Fixed, buying pet with target"}
