@@ -1,1 +1,1 @@
-{"version":"2.5.4", "notes":"Locales (languages) fixes"}
+{"version":"2.5.5", "notes":"Network Check, Lang"}
