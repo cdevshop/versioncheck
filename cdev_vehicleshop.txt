@@ -1,1 +1,1 @@
-{"version":"2.1.3", "notes":"Fixed thumbnail loading without proxy"}
+{"version":"2.1.5", "notes":"Added NUI Thumbnail Loading, took out proxy thumbnail"}
