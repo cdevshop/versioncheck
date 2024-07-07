@@ -1,1 +1,1 @@
-{"version":"2.5.0", "notes":"New Pets Update"}
+{"version":"2.5.1", "notes":"Pets Item Remove System, and fixes"}
