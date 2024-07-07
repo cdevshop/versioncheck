@@ -1,1 +1,1 @@
-{"version":"2.5.5", "notes":"Network Check, Lang"}
+{"version":"2.6.0", "notes":"Remove System, Pitbull Update and lang"}
