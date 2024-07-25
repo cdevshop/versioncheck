@@ -1,1 +1,1 @@
-{"version":"2.6.0", "notes":"Remove System, Pitbull Update and lang"}
+{"version":"2.6.1", "notes":"Fixed Player Freezing Forever after k9 takedown"}
