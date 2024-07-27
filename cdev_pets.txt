@@ -1,1 +1,1 @@
-{"version":"2.6.1", "notes":"Fixed Player Freezing Forever after k9 takedown"}
+{"version":"2.6.2", "notes":"Bug fixes"}
