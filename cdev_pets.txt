@@ -1,1 +1,1 @@
-{"version":"2.6.2", "notes":"Bug fixes"}
+{"version":"2.6.3", "notes":"Took out non premium assets from premium assets"}
