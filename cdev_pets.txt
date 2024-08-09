@@ -1,1 +1,1 @@
-{"version":"2.6.3", "notes":"Took out non premium assets from premium assets"}
+{"version":"2.6.4", "notes":"Multiple fixes"}
