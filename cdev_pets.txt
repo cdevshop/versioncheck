@@ -1,1 +1,1 @@
-{"version":"2.6.4", "notes":"Multiple fixes"}
+{"version":"2.6.5", "notes":"Added: New mini pitbull!"}
