@@ -1,1 +1,1 @@
-{"version":"2.6.5", "notes":"Added: New mini pitbull!"}
+{"version":"2.6.6", "notes":"Fixes: Keybinds, ranges, commands & price check server side"}
