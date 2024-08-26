@@ -1,1 +1,1 @@
-{"version":"2.6.6", "notes":"Fixes: Keybinds, ranges, commands & price check server side"}
+{"version":"2.7.0", "notes":"Major Fixes, check discord for more info"}
