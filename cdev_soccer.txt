@@ -1,1 +1,1 @@
-{"version":"1.1.2", "notes":"Improved permission check in setupfield, check discord changelog for more info"}
+{"version":"1.1.3", "notes":"Update: perms check"}
