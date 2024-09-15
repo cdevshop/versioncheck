@@ -1,1 +1,1 @@
-{"version":"2.7.0", "notes":"Major Fixes, check discord for more info"}
+{"version":"2.7.1", "notes":"Various fixes, fine tuning & config update"}
