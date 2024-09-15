@@ -1,1 +1,1 @@
-{"version":"2.5.2", "notes":"Remove discord warnings when not in use"}
+{"version":"2.5.3", "notes":"Update: Exports / OX support"}
