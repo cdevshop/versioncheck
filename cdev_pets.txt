@@ -1,1 +1,1 @@
-{"version":"2.7.1", "notes":"Various fixes, fine tuning & config update"}
+{"version":"2.7.2", "notes":"Fix: Added VIP Check when buying dog from player owned Pet Shop"}
