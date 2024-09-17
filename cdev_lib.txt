@@ -1,1 +1,1 @@
-{"version":"2.5.3", "notes":"Update: Exports / OX support"}
+{"version":"2.5.4", "notes":"Fix: Sound issue & more bug fixes, new exports & api update"}
