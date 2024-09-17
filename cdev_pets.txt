@@ -1,1 +1,1 @@
-{"version":"2.7.2", "notes":"Fix: Added VIP Check when buying dog from player owned Pet Shop"}
+{"version":"2.7.3", "notes":"Update: Drawtext for stores, fix / clean up pets & clean up DB after shop delete, language updates."}
