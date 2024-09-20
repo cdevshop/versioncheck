@@ -1,1 +1,1 @@
-{"version":"2.5.4", "notes":"Fix: Sound issue & more bug fixes, new exports & api update"}
+{"version":"2.5.5", "notes":"Added: Added DeleteJobByName, new target functionality, and fixed soccer sound issue."}
