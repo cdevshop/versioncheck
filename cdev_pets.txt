@@ -1,1 +1,1 @@
-{"version":"2.7.3", "notes":"Update: Drawtext for stores, fix / clean up pets & clean up DB after shop delete, language updates."}
+{"version":"2.7.4", "notes":"Update: Added language support, database cleanup, new toggle options, optimizations, and fixed some syncing."}
