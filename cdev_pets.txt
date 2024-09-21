@@ -1,1 +1,1 @@
-{"version":"2.7.4", "notes":"Update: Added language support, database cleanup, new toggle options, optimizations, and fixed some syncing."}
+{"version":"2.7.5", "notes":"Fixes: Fix when deleting shop, resolved issue with target duplication, fix bug in shop cart & ui performance improvements."}
