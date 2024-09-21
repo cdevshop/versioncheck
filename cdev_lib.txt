@@ -1,1 +1,1 @@
-{"version":"2.5.6", "notes":"Fix: Callback fix."}
+{"version":"2.5.7", "notes":"Fix: Raycasting water issues vehicle shop"}
