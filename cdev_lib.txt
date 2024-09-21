@@ -1,1 +1,1 @@
-{"version":"2.5.5", "notes":"Added: Added DeleteJobByName, new target functionality, and fixed soccer sound issue."}
+{"version":"2.5.6", "notes":"Fix: Callback fix."}
