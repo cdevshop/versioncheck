@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fix Walkstyle, pftx, escrow (lang)"}
+{"version":"1.0.4", "notes":"feat: Show Name In Request Menu & onAnimationEndMaxDistanceToComeBackToPos)"}
