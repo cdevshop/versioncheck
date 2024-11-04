@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":"More Lang & UI improvments"}
+{"version":"1.0.7", "notes":"Added hands-up, point, ragdoll, crouch, and prone animations, expanded exports, improved image loading, fixed animation end issues."}
