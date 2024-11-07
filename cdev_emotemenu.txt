@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":"Fixed prone animation errors, cancel animation now restricted to emote menu animations only."}
+{"version":"1.1.1", "notes":"Major update introducing the Hotkeys System for instant emote access, customizable animation fade velocity, a new History category for recent animations, additional Walkstyles, and performance optimizations."}
