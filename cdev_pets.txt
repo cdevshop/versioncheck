@@ -1,1 +1,1 @@
-{"version":"2.7.5", "notes":"Fixes: Fix when deleting shop, resolved issue with target duplication, fix bug in shop cart & ui performance improvements."}
+{"version":"2.7.7", "notes":"Feature Rq: Hide bubbles in config QuickAction_Bubbles."}
