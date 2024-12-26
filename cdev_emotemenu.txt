@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"version":"1.2.4", "notes":" Optimizations, new feature (image loader), feature improvements & more."}
+=======
+{"version":"1.2.4", "notes":" Improved raycasting, upgraded image loader, and optimized category and animation loading for better performance."}
+>>>>>>> Stashed changes
