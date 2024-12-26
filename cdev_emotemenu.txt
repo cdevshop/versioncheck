@@ -1,1 +1,1 @@
-{"version":"1.2.3", "notes":" Fixes to position selector-related issues, including ped collision and old coordinate reversion, resulting in more consistent and stable positioning during animations."}
+{"version":"1.2.4", "notes":" Optimizations, new feature (image loader), feature improvements & more."}
