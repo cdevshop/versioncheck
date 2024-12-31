@@ -1,1 +1,1 @@
-{"version":"1.2.4", "notes":" Improved raycasting, upgraded image loader, and optimized category and animation loading for better performance."}
+{"version":"1.2.6", "notes":" Feat: Able to open the emote menu and select emotes whilst walking or running around / optimizations!"}
