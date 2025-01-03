@@ -1,1 +1,1 @@
-{"version":"2.5.7", "notes":"Fix: Raycasting water issues vehicle shop"}
+{"version":"2.5.8", "notes":"Optimized all pet images and improved language search for faster performance and more reliable results."}

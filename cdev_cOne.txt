@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Fixed issues with opponent cards appearing on the wrong tables and bugs when picking up cards. Improved 3D context menu visibility for a smoother experience."}
+{"version":"1.0.2", "notes":"Added exports, also introduced a configurable 3D context menu for better customization. Learn more about the exports in our documentation."}
