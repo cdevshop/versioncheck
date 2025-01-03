@@ -1,1 +1,1 @@
-{"version":"1.2.6", "notes":" Feat: Able to open the emote menu and select emotes whilst walking or running around / optimizations!"}
+{"version":"1.2.7", "notes":" Feat: Able to open the emote menu and select emotes whilst walking or running around / optimizations!"}
