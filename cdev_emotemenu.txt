@@ -1,1 +1,1 @@
-{"version":"1.2.9", "notes":"Exports Handler returning fix"}
+{"version":"1.3.0", "notes":"Aim Styles"}
