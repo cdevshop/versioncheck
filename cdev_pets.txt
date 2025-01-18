@@ -1,3 +1,1 @@
-{"version":"2.7.8", "notes":"Now compatible with the new optimized images from cDev Lib, delivering smoother performance and improved gameplay visuals.
-
-."}
+{"version":"2.7.9", "notes":"Fixed health and Dachshund issues, added new exports, and improved translations. Check exports in docs"}
