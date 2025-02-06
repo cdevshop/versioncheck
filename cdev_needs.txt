@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Initial release"}
+{"version":"2.0.1", "notes":"Compass updates & more"}
