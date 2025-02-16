@@ -1,1 +1,1 @@
-{"version":"1.3.6", "notes":"better prone and crouch bugs fixes"}
+{"version":"1.3.8", "notes":"Position Selector and looping fixed"}
