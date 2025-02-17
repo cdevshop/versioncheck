@@ -1,1 +1,1 @@
-{"version":"1.1.4", "notes":"Update: perms check + new export"}
+{"version":"1.1.5", "notes":"Update: Able to re-position stamina bar & Key instructions"}
