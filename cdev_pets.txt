@@ -1,1 +1,1 @@
-{"version":"2.7.9", "notes":"Fixed health and Dachshund issues, added new exports, and improved translations. Check exports in docs"}
+{"version":"2.8.0", "notes":"Reworked the entire spawning of the pet, should fix all network problems!"}
