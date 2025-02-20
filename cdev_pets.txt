@@ -1,1 +1,1 @@
-{"version":"2.8.1", "notes":"Reworked the entire spawning of the pet, should fix all network problems!"}
+{"version":"2.8.2", "notes":"Reworked the entire spawning of the pet, should fix all network problems!"}
