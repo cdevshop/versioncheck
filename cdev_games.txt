@@ -1,1 +1,1 @@
-{"version":"1.1.3", "notes":"Added ESX Support and minor fixes"}
+{"version":"1.1.4", "notes":"Misc updates"}
