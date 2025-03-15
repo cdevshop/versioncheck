@@ -1,1 +1,1 @@
-{"version":"2.8.2", "notes":"Reworked the entire spawning of the pet, should fix all network problems!"}
+{"version":"2.8.4", "notes":"fix: k9 was not activating / fix: keybinds working without action bubbles activated / fix: sometimes people start following instead of the pet"}
