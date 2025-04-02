@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"New Features and more fixes"}
+{"version":"2.1.1", "notes":"Fix vehicle entity validation and old table migrations"}
