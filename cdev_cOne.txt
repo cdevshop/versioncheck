@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":"offset cards better, net event usage"}
+{"version":"1.0.9", "notes":"tables being picked up same time cause duplication glitch"}
