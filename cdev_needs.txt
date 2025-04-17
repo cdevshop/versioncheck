@@ -1,1 +1,1 @@
-{"version":"2.1.1", "notes":"Fix vehicle entity validation and old table migrations"}
+{"version":"2.1.2", "notes":" fix: hospital events, speed multiplier, also check server side if the stat is enabled / chore:removed unused file / feat:  check if a stat exists before using it, a.."}
