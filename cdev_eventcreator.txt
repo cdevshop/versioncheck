@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Added Toggle to turn zones on/off through UI, change default keybind + adjustments to debug prints"}
+{"version":"1.0.3", "notes":"You can now choose to obtain prop images through our CDN (Tutorial in the configs.lua file). , We have updated the images from 500MB to compressed images of 33.7MB."}
