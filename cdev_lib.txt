@@ -1,1 +1,1 @@
-{"version":"2.5.8", "notes":"Optimized all pet images and improved language search for faster performance and more reliable results."}
+{"version":"2.6.0", "notes":"Pets Update."}

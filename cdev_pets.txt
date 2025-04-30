@@ -1,1 +1,1 @@
-{"version":"2.8.5", "notes":"Reworked the entire spawning of the pet, should fix all network problems!"}
+{"version":"2.9.0", "notes":"cdev_pets v2.9.0 includes new trip configuration options, clearer variable names, fixes for animations, menu, pet and shop issues, a redesigned inventory UI and clothing system, improved quantity handling, updated language files, and various backend changes. Check Discord for further info."}
