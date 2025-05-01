@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"Position Selector and looping fixed"}
+{"version":"1.4.2", "notes":"fix: Rules Detection"}
