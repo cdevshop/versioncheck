@@ -1,1 +1,1 @@
-{"version":"1.1.5", "notes":"Update: Able to re-position stamina bar & Key instructions"}
+{"version":"1.1.6", "notes":"Fixed structure for save txt file and fix notification not exist condition"}
