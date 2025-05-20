@@ -1,1 +1,1 @@
-{"version":"1.1.6", "notes":"Fixed structure for save txt file and fix notification not exist condition"}
+{"version":"1.2.0", "notes":"Add permission for Manager Ped / chore(soccer): Now debug zone for ox is false by default"}
