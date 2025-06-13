@@ -1,2 +1,2 @@
-{"version":"1.4.3", "notes":"Sync Fixed"}
+{"version":"1.4.4", "notes":"Fixes and Rework animations"}
 
