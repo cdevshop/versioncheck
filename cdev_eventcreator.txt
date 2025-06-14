@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"You can now choose to obtain prop images through our CDN (Tutorial in the configs.lua file). , We have updated the images from 500MB to compressed images of 33.7MB."}
+{"version":"1.0.4", "notes":"Rework and Compress Resource assets files."}
