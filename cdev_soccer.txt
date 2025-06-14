@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"Add permission for Manager Ped / chore(soccer): Now debug zone for ox is false by default"}
+{"version":"1.2.1", "notes":"fix(keybinds):ensure translations load before keybind registration"}
