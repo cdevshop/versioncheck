@@ -1,1 +1,1 @@
-{"version":"2.1.3", "notes":" fix: gizmo, pee command, shower stuck"}
+{"version":"2.2.0", "notes":" feat: Add NOS Level to API, Fix: seatbelt not updating when vehcile is not running"}
