@@ -1,2 +1,2 @@
-{"version":"1.5.0", "notes":"Fixes some animations and Add new Car Animations"}
+{"version":"1.5.0", "notes":"Fixes some animations"}
 
