@@ -1,1 +1,1 @@
-{"version":"2.9.2", "notes":"feature(pets):Now peoples can enable to just spawn a vip pets if have vip enable, Add option to use drawtext for put dog inside vehicle, sniff vehicle, sniff player / chore(pets): Add notify when pet not found nothing illegal "}
+{"version":"2.9.3", "notes":"New pets, new clothes , rework images, improve the lag and crash players when have huge number of players inside the server"}
