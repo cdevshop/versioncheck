@@ -1,1 +1,1 @@
-{"version":"2.9.3", "notes":"New pets, new clothes , rework images, improve the lag and crash players when have huge number of players inside the server"}
+{"version":"2.9.4", "notes":"Updated the resource to be compatible with the new compiled asset folders."}
