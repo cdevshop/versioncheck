@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":" feat: Add NOS Level to API, Fix: seatbelt not updating when vehcile is not running"}
+{"version":"2.2.2", "notes":"New config to limit gizmo, Better improvement updates and Fixes."}
