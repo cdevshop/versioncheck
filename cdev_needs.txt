@@ -1,1 +1,1 @@
-{"version":"2.2.2", "notes":"New config to limit gizmo, Better improvement updates and Fixes."}
+{"version":"2.2.3", "notes":"local esx sync - now Needs syncs both server and client side when using esx_status and ped not being able to pee when using locations instead of props."}
