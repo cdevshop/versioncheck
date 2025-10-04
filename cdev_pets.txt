@@ -1,1 +1,1 @@
-{"version":"3.0.0", "notes":"Huge update fixes."}
+{"version":"3.1.0", "notes":"New pets update."}
