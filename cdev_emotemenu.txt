@@ -1,2 +1,2 @@
-{"version":"1.5.1", "notes":"Fixed exploit allowing players to push vehicles using animation preview ghost and Fixed controllable animations spawning 1 meter above ground when using Set Position feature"}
+{"version":"1.6.0", "notes":"New Features Update (Group Animation & Speed Control Animation) , New One Click play action"}
 
