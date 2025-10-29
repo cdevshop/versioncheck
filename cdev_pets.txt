@@ -1,1 +1,1 @@
-{"version":"3.2.1", "notes":"Fixed bugs from the last version."}
+{"version":"3.2.2", "notes":"New Optional Server-Side Spawn (Routing Bucket System)."}
