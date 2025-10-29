@@ -1,2 +1,2 @@
-{"version":"1.6.0", "notes":"New Features Update (Group Animation & Speed Control Animation) , New One Click play action"}
+{"version":"1.6.1", "notes":"Fixes and new config"}
 
