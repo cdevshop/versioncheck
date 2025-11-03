@@ -1,2 +1,2 @@
-{"version":"1.6.1", "notes":"Fixes and new config"}
+{"version":"1.6.2", "notes":"Fixes Animations and Add more Animations"}
 
