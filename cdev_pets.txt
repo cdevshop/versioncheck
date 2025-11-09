@@ -1,1 +1,1 @@
-{"version":"3.2.4", "notes":"Fix and Improve some detection damge from pet."}
+{"version":"3.2.4", "notes":"Fix debug code error."}
