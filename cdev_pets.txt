@@ -1,1 +1,1 @@
-{"version":"3.2.6", "notes":"Fix correct pet purchase validation when multiple pets share the same key."}
+{"version":"3.2.7", "notes":"Add new feature Pet Transfer."}
