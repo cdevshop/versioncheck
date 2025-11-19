@@ -1,1 +1,1 @@
-{"version":"2.6.5", "notes":"Pets Update new pets."}
+{"version":"2.6.6", "notes":"Pets Update new feature Pet Transfer."}
