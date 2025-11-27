@@ -1,1 +1,1 @@
-{"version":"3.2.7", "notes":"Add new feature Pet Transfer."}
+{"version":"3.2.8", "notes":"Add new feature Show Blip on Map."}
