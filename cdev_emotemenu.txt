@@ -1,2 +1,2 @@
-{"version":"1.6.2", "notes":"Fixes Animations and Add more Animations"}
+{"version":"1.6.3", "notes":"Fixes functions for work with medialib"}
 
