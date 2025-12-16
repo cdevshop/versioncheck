@@ -1,1 +1,1 @@
-{"version":"2.6.6", "notes":"Pets Update new feature Pet Transfer."}
+{"version":"2.6.7", "notes":"Fix qb-target new version compatibility"}
