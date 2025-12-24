@@ -1,1 +1,1 @@
-{"version":"2.6.7", "notes":"Fix qb-target new version compatibility"}
+{"version":"2.6.8", "notes":"Fix qb-target new version compatibility"}
