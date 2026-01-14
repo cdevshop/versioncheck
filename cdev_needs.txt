@@ -1,1 +1,1 @@
-{"version":"2.2.3", "notes":"local esx sync - now Needs syncs both server and client side when using esx_status and ped not being able to pee when using locations instead of props."}
+{"version":"2.2.4", "notes":"Add new Features times for Sleep Anywhere and Sleeping Bag"}
