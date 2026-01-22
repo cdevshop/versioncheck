@@ -1,1 +1,1 @@
-{"version":"3.3.0", "notes":"New cats premium"}
+{"version":"3.3.1", "notes":"New Feature Pet Following IA Improve"}
