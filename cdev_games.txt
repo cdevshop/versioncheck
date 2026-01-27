@@ -1,1 +1,1 @@
-{"version":"1.1.5", "notes":"Fixed Missing Languages"}
+{"version":"1.1.6", "notes":"Feature now you can configs the kebyinds"}
