@@ -1,1 +1,1 @@
-{"version":"1.2.0", "notes":"New Feature: Support all languages"}
+{"version":"1.2.1", "notes":"Chore: Fixed some strings that were not available in the locale."}
