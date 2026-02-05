@@ -1,1 +1,1 @@
-{"version":"2.6.9", "notes":"New Pet Cats Campatible with New Version Pets"}
+{"version":"2.7.0", "notes":"Fix: ox_target usage"}
