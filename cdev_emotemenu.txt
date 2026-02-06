@@ -1,2 +1,2 @@
-{"version":"1.6.4", "notes":"Fixed an issue where disabling extras (crouch) caused conflicts external resources"}
+{"version":"1.6.5", "notes":"Fixed problem with Idle Animation adn Add new config for better Perfomance"}
 
