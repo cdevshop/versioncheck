@@ -1,2 +1,2 @@
-{"version":"1.6.5", "notes":"Fixed problem with Idle Animation adn Add new config for better Perfomance"}
+{"version":"1.6.6", "notes":"A huge fix for alot animations was not working correct."}
 
