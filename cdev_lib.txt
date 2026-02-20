@@ -1,1 +1,1 @@
-{"version":"2.7.0", "notes":"Fix: ox_target usage"}
+{"version":"2.7.1", "notes":"Feature: New Design for Pets and Remove Pets images from lib"}
