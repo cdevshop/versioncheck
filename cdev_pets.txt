@@ -1,1 +1,1 @@
-{"version":"3.4.1", "notes":"Huge Update imrpove and fixes"}
+{"version":"3.4.2", "notes":"Alot Fixes, Bring images items/pets for cdev_pets folder and Redesign UI's from shop"}
