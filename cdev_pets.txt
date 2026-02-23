@@ -1,1 +1,1 @@
-{"version":"3.4.2", "notes":"Alot Fixes, Bring images items/pets for cdev_pets folder and Redesign UI's from shop"}
+{"version":"3.4.3", "notes":"Some fixes and new Veterinary Jobs permission"}
