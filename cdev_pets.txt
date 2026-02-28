@@ -1,1 +1,1 @@
-{"version":"3.4.3", "notes":"Some fixes and new Veterinary Jobs permission"}
+{"version":"3.4.4", "notes":"New animals pack"}
