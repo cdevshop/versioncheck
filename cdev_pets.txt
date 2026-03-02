@@ -1,1 +1,1 @@
-{"version":"3.4.6", "notes":"Chore: Fix a ox target problem and Drawtext sniff error"}
+{"version":"3.4.7", "notes":"Feautre: New Custom Sounds Pets Vocalization (Optional)"}
