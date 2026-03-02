@@ -1,1 +1,1 @@
-{"version":"2.7.2", "notes":"Feature: New Auto detected system"}
+{"version":"2.7.3", "notes":"Feature: Rework a Custom Currency System For Pets Shop"}
