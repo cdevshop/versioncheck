@@ -1,1 +1,1 @@
-{"version":"3.4.5", "notes":"Rework a Custom Currency System for Pet Shop NPC"}
+{"version":"3.4.6", "notes":"Chore: Fix a ox target problem and Drawtext sniff error"}
