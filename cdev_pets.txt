@@ -1,1 +1,1 @@
-{"version":"3.4.4", "notes":"New animals pack"}
+{"version":"3.4.5", "notes":"Rework a Custom Currency System for Pet Shop NPC"}
