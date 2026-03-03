@@ -1,1 +1,1 @@
-{"version":"3.4.7", "notes":"Feautre: New Custom Sounds Pets Vocalization (Optional)"}
+{"version":"3.4.8", "notes":"Fix alot bugs in inventory and add new inventory features"}
