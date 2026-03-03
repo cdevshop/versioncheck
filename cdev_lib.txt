@@ -1,1 +1,1 @@
-{"version":"2.7.3", "notes":"Feature: Rework a Custom Currency System For Pets Shop"}
+{"version":"2.7.4", "notes":"Fix alot's bugs in inventory and new features for inventory"}
