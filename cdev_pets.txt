@@ -1,1 +1,1 @@
-{"version":"3.4.8", "notes":"Fix alot bugs in inventory and add new inventory features"}
+{"version":"3.4.9", "notes":"Add new cache target system for better performance"}
