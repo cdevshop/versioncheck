@@ -1,1 +1,1 @@
-{"version":"3.4.9", "notes":"Add new cache target system for better performance"}
+{"version":"3.5.0", "notes":"Fix some problem with target and stock from shop items"}
