@@ -1,1 +1,1 @@
-{"version":"3.5.0", "notes":"Fix some problem with target and stock from shop items"}
+{"version":"3.5.1", "notes":"Fix problem error attempt to compare number with string"}
