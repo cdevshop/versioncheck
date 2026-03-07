@@ -1,1 +1,1 @@
-{"version":"3.5.1", "notes":"Fix problem error attempt to compare number with string"}
+{"version":"3.5.2", "notes":"Fix problem with Sync ShopUpdate"}
