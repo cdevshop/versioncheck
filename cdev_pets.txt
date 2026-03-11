@@ -1,1 +1,1 @@
-{"version":"3.5.2", "notes":"Fix problem with Sync ShopUpdate"}
+{"version":"3.5.4", "notes":"Fixes and New Target actions addded"}
