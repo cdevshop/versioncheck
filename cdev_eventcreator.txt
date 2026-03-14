@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Rework and Compress Resource assets files."}
+{"version":"1.0.5", "notes":"New weight feature inside configure for the box (vault)"}
