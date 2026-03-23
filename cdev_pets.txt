@@ -1,1 +1,1 @@
-{"version":"3.5.4", "notes":"Fixes and New Target actions addded"}
+{"version":"3.5.5", "notes":"The issue where using previews in the shops allowed users to obtain and duplicate items without paying any amount has been fixed."}
