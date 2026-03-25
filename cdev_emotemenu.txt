@@ -1,2 +1,2 @@
-{"version":"1.6.6", "notes":"A huge fix for alot animations was not working correct."}
+{"version":"1.6.7", "notes":"Fixed a problem with props not showing for others players after certain number of players"}
 
