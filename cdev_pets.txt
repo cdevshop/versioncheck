@@ -1,1 +1,1 @@
-{"version":"3.5.5", "notes":"The issue where using previews in the shops allowed users to obtain and duplicate items without paying any amount has been fixed."}
+{"version":"3.5.6", "notes":"New feature and optimize petbag"}
