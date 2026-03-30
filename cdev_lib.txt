@@ -1,1 +1,1 @@
-{"version":"2.7.4", "notes":"Fix alot's bugs in inventory and new features for inventory"}
+{"version":"2.7.5", "notes":"Update compatibility with new PetBag Cdev Pets"}
