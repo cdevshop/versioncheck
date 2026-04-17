@@ -1,1 +1,1 @@
-{"version":"1.3.0", "notes":"Huge Stability and Visibility Improvements"}
+{"version":"1.3.1", "notes":"Add new Config for Ball Render Distance"}
