@@ -1,1 +1,1 @@
-{"version":"3.5.7", "notes":"Fix a problem with vet Quick Heal on dead pets when use Target Options instead Bubbles"}
+{"version":"3.5.8", "notes":"Improve with new System for mor perfomance in Shops udates"}
