@@ -1,1 +1,1 @@
-{"version":"2.2.4", "notes":"Add new Features times for Sleep Anywhere and Sleeping Bag"}
+{"version":"2.2.5", "notes":"Add new Compatibility with ESX and add new config for particles"}
