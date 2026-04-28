@@ -1,1 +1,1 @@
-{"version":"2.7.6", "notes":"Fixed an issue where calls to the callback cdev_lib:api:getVIP were still being triggered even when the VIP system was disabled."}
+{"version":"2.7.7", "notes":"New pet shop NPC redesign"}
