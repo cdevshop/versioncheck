@@ -1,1 +1,1 @@
-{"version":"3.5.8", "notes":"Improve with new System for mor perfomance in Shops udates"}
+{"version":"3.5.9", "notes":"New feature return stock to supplier and fix some exploits"}
