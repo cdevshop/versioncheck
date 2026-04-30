@@ -1,1 +1,1 @@
-{"version":"1.3.2", "notes":"Fix some Ilegal Goal Bugs and Fixed Hud for Blue Team"}
+{"version":"1.4.0", "notes":"feature: New Team Names and Images Team , Rework Scoreboard"}
