@@ -1,2 +1,2 @@
-{"version":"1.6.8", "notes":" Fixed an issue where calls to the callback cdev_lib:api:getVIP were still being triggered even when the VIP system was disabled."}
+{"version":"1.6.9", "notes":"Fix a problem persist the animation when you change between the animation in emote menu using One Click Action ( LMB ) & Punch in Emote Menu"}
 
