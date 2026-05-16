@@ -1,1 +1,1 @@
-{"version":"2.2.5", "notes":"Add new Compatibility with ESX and add new config for particles"}
+{"version":"2.2.6", "notes":"Add new feature Toggle Effects ( Black Screen when drive, Vomit , flies, drunk movement, etc)"}
