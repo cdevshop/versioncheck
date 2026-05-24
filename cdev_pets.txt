@@ -1,1 +1,1 @@
-{"version":"3.6.0", "notes":"Following the latest optimisation update, some servers experienced a delay where Pet Shop showroom changes would only appear after restarting the resource or server.This update resolves the issue and ensures showroom changes now sync and update correctly in real time."}
+{"version":"3.6.1", "notes":"Fix the target problem"}
