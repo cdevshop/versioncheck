@@ -1,1 +1,1 @@
-{"version":"3.6.1", "notes":"Fix the target problem"}
+{"version":"3.6.2", "notes":"Fix: quick follow/command now prefer ownedPet when bubbles are disabled; adds optional QuickActionFollow export."}
