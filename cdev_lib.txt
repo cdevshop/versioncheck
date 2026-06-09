@@ -1,1 +1,1 @@
-{"version":"2.7.8", "notes":"Fix a target problem"}
+{"version":"2.7.9", "notes":"Fix: remove dev alert placeholder from NUI; alert UI only mounts when opened; faster locale sync on join."}
