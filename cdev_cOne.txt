@@ -1,1 +1,1 @@
-{"version":"1.3.1", "notes":"We’ve implemented several improvements to how players are handled during matches:"}
+{"version":"1.3.2", "notes":"Add new features stacking and marker active player"}
