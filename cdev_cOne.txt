@@ -1,1 +1,1 @@
-{"version":"1.3.3", "notes":"Apply new fixes bugs and new config mixedmode"}
+{"version":"1.3.4", "notes":"Apply new fixes bugs"}
