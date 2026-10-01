@@ -1,1 +1,1 @@
-{"version":"3.6.3", "notes":"Fix: Inventory bugs"}
+{"version":"3.6.5", "notes":"Fix: erver freeze when an entity was deleted while a pet was out. The script was doing heavy work on every entity removal, which showed up in the server profiler as a spike on entityRemoved. /Pets are now unloaded only when their own ped is the one removed. Deleting a car, a prop, or another ped no longer hitches the server. "}
