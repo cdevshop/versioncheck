@@ -1,1 +1,1 @@
-{"version":"1.1.6", "notes":"Feature now you can configs the kebyinds"}
+{"version":"1.1.7", "notes":"Fixed: sploit event called"}
