@@ -1,2 +1,2 @@
-{"version":"1.6.9", "notes":"Fix a problem persist the animation when you change between the animation in emote menu using One Click Action ( LMB ) & Punch in Emote Menu"}
+{"version":"1.7.0", "notes":"Fixed an issue where the idle animation could start while the character was crouched and make them stand back up. And Added automatic compatibility with tgiann-phone-accessories"}
 
