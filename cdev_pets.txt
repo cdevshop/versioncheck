@@ -1,1 +1,1 @@
-{"version":"3.6.7", "notes":"Fix some perfomance problem , complete patch notes in cdev discord"}
+{"version":"3.6.8", "notes":"Fix some perfomance problem , complete patch notes in cdev discord"}
