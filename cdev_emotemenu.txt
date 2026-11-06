@@ -1,2 +1,2 @@
-{"version":"1.7.0", "notes":"Fixed an issue where the idle animation could start while the character was crouched and make them stand back up. And Added automatic compatibility with tgiann-phone-accessories"}
+{"version":"1.7.1", "notes":"Fixed an issue where selecting a player in the synchronized emotes window would not stick. The choice now stays selected, and the request can be sent."}
 
